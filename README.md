@@ -19,3 +19,5 @@ More recently I also made **[recall](https://github.com/HerrPixel/recall)**.
 
 ## Miscellaneous
 For some more interactive things I made, visit **[jonboi.de](https://jonboi.de)**
+
+I am also the author of **[A381294](https://oeis.org/A381294)**, a sequence in the OEIS (Online Encyclopedia of Integer Sequences). You can find a writeup on [jonasseiler.de/A381294](https://jonasseiler.de/A381294/) and some code to generate the sequence yourself in [github.com/HerrPixel/A381294](https://github.com/HerrPixel/A381294/).
