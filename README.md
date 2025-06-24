@@ -15,6 +15,8 @@ I am a big fan of the yearly [Advent of Code](https://adventofcode.com/). Below 
 
   - **[Advent of Code 2022](https://github.com/HerrPixel/AdventofCode2022)**: Written in Julia
 
+  - **[Advent of Code 2021](https://github.com/HerrPixel/AdventofCode2021)**: Written in Typescript
+
 More recently I also made **[recall](https://github.com/HerrPixel/recall)**.
 
 ## Miscellaneous
