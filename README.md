@@ -6,6 +6,8 @@ I am mainly doing things in [**Rust**](https://www.rust-lang.org/) and [**Julia*
 
 Though I have worked with most progamming languages out there, like **Java**, [**TypeScript**](https://www.typescriptlang.org/) or [**Go**](https://go.dev/).
 
+If you are interested in finding more about my scientific journey, including publications and talks, visit **[jonasseiler.de](https://jonasseiler.de)**
+
 ## Projects
 I am a big fan of the yearly [Advent of Code](https://adventofcode.com/). Below you can find my solutions for the last few years:
 
@@ -17,7 +19,7 @@ I am a big fan of the yearly [Advent of Code](https://adventofcode.com/). Below 
 
   - **[Advent of Code 2021](https://github.com/HerrPixel/AdventofCode2021)**: Written in Typescript
 
-More recently I also made **[recall](https://github.com/HerrPixel/recall)**.
+Feel free to browse my other Repos to find more interesting things I made!
 
 ## Miscellaneous
 For some more interactive things I made, visit **[jonboi.de](https://jonboi.de)**
