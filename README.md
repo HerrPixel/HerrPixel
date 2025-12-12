@@ -11,6 +11,8 @@ If you are interested in finding more about my scientific journey, including pub
 ## Projects
 I am a big fan of the yearly [Advent of Code](https://adventofcode.com/). Below you can find my solutions for the last few years:
 
+  - **[Advent of Code 2025](https://github.com/HerrPixel/AdventOfCode2025)**: Written in Kotlin
+  
   - **[Advent of Code 2024](https://github.com/HerrPixel/AdventofCode2024)**: Written in Go
 
   - **[Advent of Code 2023](https://github.com/HerrPixel/AdventofCode2023)**: Written in Rust
